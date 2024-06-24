@@ -4,14 +4,14 @@ IP tracking / IP analytics WebApp
 The primary code is in the index.php file that picks up the IP address and stores it in the SQLite database, pulls out some sql queries and makes some somple graphs and stats as show in the wicki section.
 
 Build:
----------------------------------------------------------------------------
+----------------------
 
 Install SQL:
 
 sudo apt-get install sqlite3 -y
 sudo apt install sqlitebrowser -y
 
-Python3 Code ———————————————————————-----------------------------------------
+Python3 Code ——————————————————————
 
 import sqlite3
 
@@ -26,11 +26,11 @@ for row in cursor:
 
 dbconnect.close();
 
-————————————————————————————————-----------------------------------------------------
+————————————————————————————————--------
 DB file = one.db
 DB table = one and has ID, Name and Name
 ￼
-—————————————————————------------------————————
+—————————————————————------------------
 PHP code for the web page once the web server and SQL server have been setup as per (With PHP (works on 64bit))
 <?php
 print('<p style="font-family:Courier; color:Blue; font-size: 20px;">');
@@ -48,7 +48,7 @@ while ($row = $res->fetchArray(SQLITE3_ASSOC)){
 }
 print('</p>');
 $db->close();
-# ---------------------------- working ---------------------------------
+# ----- working -----------
 #$db = new SQLite3('new.db');
 #$allProductsQuery = "SELECT * FROM one";
 #$productList = $db->query($allProductsQuery);
