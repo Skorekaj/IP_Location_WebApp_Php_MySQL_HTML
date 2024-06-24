@@ -1,0 +1,192 @@
+15.18:44<bMon, 09 May 2022 15:18:44 +0100>sdcecsc
+17.46:58<bTue, 10 May 2022 17:46:58 +0100>sdcecsc
+11.32:23<bWed, 18 May 2022 11:32:23 +0100>sdcecsc
+12.41:17<bThu, 19 May 2022 12:41:17 +0100>sdcecsc
+11.46:26<bSun, 22 May 2022 11:46:26 +0100>sdcecsc
+13.00:24<bSun, 22 May 2022 13:00:24 +0100>sdcecsc
+8.31:26<bWed, 25 May 2022 08:31:26 +0100>sdcecsc
+8.49:46<bTue, 31 May 2022 08:49:46 +0100>sdcecsc
+9.39:19<bMon, 06 Jun 2022 09:39:19 +0100>sdcecsc
+10.26:52<bTue, 07 Jun 2022 10:26:52 +0100>sdcecsc
+15.08:04<bTue, 07 Jun 2022 15:08:04 +0100>sdcecsc
+15.08:20<bTue, 07 Jun 2022 15:08:20 +0100>sdcecsc
+13.57:42<bWed, 08 Jun 2022 13:57:42 +0100>sdcecsc
+16.45:22<bSat, 11 Jun 2022 16:45:22 +0100>sdcecsc
+1.48:56<bSun, 12 Jun 2022 01:48:56 +0100>sdcecsc
+16.55:42<bSun, 12 Jun 2022 16:55:42 +0100>sdcecsc
+9.00:15<bWed, 15 Jun 2022 09:00:15 +0100>sdcecsc
+9.11:36<bMon, 20 Jun 2022 09:11:36 +0100>sdcecsc
+9.11:49<bMon, 20 Jun 2022 09:11:49 +0100>sdcecsc
+19.22:22<bMon, 20 Jun 2022 19:22:22 +0100>sdcecsc
+21.17:02<bWed, 22 Jun 2022 21:17:02 +0100>sdcecsc
+20.45:15<bSun, 26 Jun 2022 20:45:15 +0100>sdcecsc
+9.19:17<bTue, 28 Jun 2022 09:19:17 +0100>sdcecsc
+12.40:19<bWed, 29 Jun 2022 12:40:19 +0100>sdcecsc
+12.40:19<bWed, 29 Jun 2022 12:40:19 +0100>sdcecsc
+12.40:20<bWed, 29 Jun 2022 12:40:20 +0100>sdcecsc
+12.40:21<bWed, 29 Jun 2022 12:40:21 +0100>sdcecsc
+12.40:29<bWed, 29 Jun 2022 12:40:29 +0100>sdcecsc
+22.25:27<bWed, 29 Jun 2022 22:25:27 +0100>sdcecsc
+9.26:14<bThu, 30 Jun 2022 09:26:14 +0100>sdcecsc
+9.27:03<bThu, 30 Jun 2022 09:27:03 +0100>sdcecsc
+13.05:17<bThu, 30 Jun 2022 13:05:17 +0100>sdcecsc
+14.10:53<bMon, 04 Jul 2022 14:10:53 +0100>sdcecsc
+14.03:00<bTue, 05 Jul 2022 14:03:00 +0100>sdcecsc
+9.52:15<bWed, 06 Jul 2022 09:52:15 +0100>sdcecsc
+12.06:09<bThu, 07 Jul 2022 12:06:09 +0100>sdcecsc
+18.49:54<bSat, 09 Jul 2022 18:49:54 +0100>sdcecsc
+18.50:19<bSat, 09 Jul 2022 18:50:19 +0100>sdcecsc
+19.13:13<bSat, 09 Jul 2022 19:13:13 +0100>sdcecsc
+16.52:47<bSun, 10 Jul 2022 16:52:47 +0100>sdcecsc
+18.34:11<bMon, 11 Jul 2022 18:34:11 +0100>sdcecsc
+19.24:09<bMon, 11 Jul 2022 19:24:09 +0100>sdcecsc
+9.24:55<bTue, 12 Jul 2022 09:24:55 +0100>sdcecsc
+9.15:46<bWed, 13 Jul 2022 09:15:46 +0100>sdcecsc
+18.58:29<bWed, 13 Jul 2022 18:58:29 +0100>sdcecsc
+17.32:47<bThu, 14 Jul 2022 17:32:47 +0100>sdcecsc
+21.05:21<bFri, 15 Jul 2022 21:05:21 +0100>sdcecsc
+21.07:35<bFri, 15 Jul 2022 21:07:35 +0100>sdcecsc
+21.10:13<bFri, 15 Jul 2022 21:10:13 +0100>sdcecsc
+21.12:40<bFri, 15 Jul 2022 21:12:40 +0100>sdcecsc
+21.15:50<bFri, 15 Jul 2022 21:15:50 +0100>sdcecsc
+21.16:36<bFri, 15 Jul 2022 21:16:36 +0100>sdcecsc
+21.22:47<bFri, 15 Jul 2022 21:22:47 +0100>sdcecsc
+21.23:23<bFri, 15 Jul 2022 21:23:23 +0100>sdcecsc
+21.25:18<bFri, 15 Jul 2022 21:25:18 +0100>sdcecsc
+21.28:16<bFri, 15 Jul 2022 21:28:16 +0100>sdcecsc
+21.28:30<bFri, 15 Jul 2022 21:28:30 +0100>sdcecsc
+22.24:48<bFri, 15 Jul 2022 22:24:48 +0100>sdcecsc
+22.27:20<bFri, 15 Jul 2022 22:27:20 +0100>sdcecsc
+22.30:07<bFri, 15 Jul 2022 22:30:07 +0100>sdcecsc
+22.31:17<bFri, 15 Jul 2022 22:31:17 +0100>sdcecsc
+22.31:32<bFri, 15 Jul 2022 22:31:32 +0100>sdcecsc
+22.33:12<bFri, 15 Jul 2022 22:33:12 +0100>sdcecsc
+22.51:25<bFri, 15 Jul 2022 22:51:25 +0100>sdcecsc
+22.56:08<bFri, 15 Jul 2022 22:56:08 +0100>sdcecsc
+22.57:14<bFri, 15 Jul 2022 22:57:14 +0100>sdcecsc
+22.58:01<bFri, 15 Jul 2022 22:58:01 +0100>sdcecsc
+23.02:09<bFri, 15 Jul 2022 23:02:09 +0100>sdcecsc
+23.02:53<bFri, 15 Jul 2022 23:02:53 +0100>sdcecsc
+23.04:08<bFri, 15 Jul 2022 23:04:08 +0100>sdcecsc
+23.05:55<bFri, 15 Jul 2022 23:05:55 +0100>sdcecsc
+23.07:27<bFri, 15 Jul 2022 23:07:27 +0100>sdcecsc
+23.10:18<bFri, 15 Jul 2022 23:10:18 +0100>sdcecsc
+23.12:50<bFri, 15 Jul 2022 23:12:50 +0100>sdcecsc
+23.27:39<bFri, 15 Jul 2022 23:27:39 +0100>sdcecsc
+23.30:13<bFri, 15 Jul 2022 23:30:13 +0100>sdcecsc
+0.58:07<bSat, 16 Jul 2022 00:58:07 +0100>sdcecsc
+13.13:42<bSat, 16 Jul 2022 13:13:42 +0100>sdcecsc
+13.09:24<bMon, 18 Jul 2022 13:09:24 +0100>sdcecsc
+16.26:39<bMon, 18 Jul 2022 16:26:39 +0100>sdcecsc
+22.48:50<bMon, 18 Jul 2022 22:48:50 +0100>sdcecsc
+11.38:31<bTue, 19 Jul 2022 11:38:31 +0100>sdcecsc
+12.55:14<bWed, 20 Jul 2022 12:55:14 +0100>n
+18.55:48<bMon, 25 Jul 2022 18:55:48 +0100>n
+18.46:20<bFri, 29 Jul 2022 18:46:20 +0100>n
+18.46:38<bFri, 29 Jul 2022 18:46:38 +0100>n
+17.28:38<bSat, 30 Jul 2022 17:28:38 +0100>n
+18.46:21<bSun, 31 Jul 2022 18:46:21 +0100>n
+16.42:23<bWed, 03 Aug 2022 16:42:23 +0100>n
+16.43:02<bWed, 03 Aug 2022 16:43:02 +0100>n
+21.48:48<bThu, 04 Aug 2022 21:48:48 +0100>n
+8.37:11<bSun, 07 Aug 2022 08:37:11 +0100>n
+8.37:21<bSun, 07 Aug 2022 08:37:21 +0100>n
+17.30:04<bSun, 07 Aug 2022 17:30:04 +0100>n
+10.52:47<bMon, 08 Aug 2022 10:52:47 +0100>n
+21.53:57<bThu, 11 Aug 2022 21:53:57 +0100>n
+17.33:43<bWed, 14 Sep 2022 17:33:43 +0100>n
+21.05:43<bFri, 16 Sep 2022 21:05:43 +0100>n
+20.35:07<bThu, 22 Sep 2022 20:35:07 +0100>n
+11.08:47<bSat, 14 Jan 2023 11:08:47 +0000>heoo, becuase i think its fgyn
+19.26:39<bWed, 25 Jan 2023 19:26:39 +0000>heoo, becuase i think its fgyn
+19.27:14<bWed, 25 Jan 2023 19:27:14 +0000>heoo, becuase i think its fgyn
+14.31:50<bFri, 27 Jan 2023 14:31:50 +0000>kjghgctfhvuyfyf
+14.31:56<bFri, 27 Jan 2023 14:31:56 +0000>mjhkjkjk
+10.40:11<bSat, 28 Jan 2023 10:40:11 +0000>mjhkjkjk
+10.01:59<bSun, 29 Jan 2023 10:01:59 +0000>mjhkjkjk
+10.02:13<bSun, 29 Jan 2023 10:02:13 +0000>mjhkjkjk
+19.19:49<bThu, 02 Feb 2023 19:19:49 +0000>kjghgctfhvuyfyf
+18.33:17<bSat, 04 Feb 2023 18:33:17 +0000>kjghgctfhvuyfyf
+21.40:03<bWed, 08 Feb 2023 21:40:03 +0000>why not
+16.58:59<bSun, 19 Feb 2023 16:58:59 +0000>kjghgctfhvuyfyf
+17.21:12<bSat, 11 Mar 2023 17:21:12 +0000>We are a group of highly qualified ethical hackers who scan tens of thousands of sites every day for critical vulnerabilities and patch them for a small fee.
+
+On your site 158.97 - we have discovered 5 critical vulnerabilities, each of which can give attackers full access to your site, databases and the server as a whole.
+
+Pay $3000 (0.15 BTC) by visiting this site where you will be able to copy our bitcoin (btc) address or scan the QR code with your device https://www.blockchain.com/explorer/addresses/btc/3JMTLcBsKyKn79UuQZJbeCbVXYp6zM435Y
+ And after payment within 12 hours we will fix all the vulnerabilities on your site and you can sleep peacefully without worrying about the safety of your site and server.
+ 
+If we are hired by well-known corporations, then we charge from $50000 for our services, so you are lucky that we offer you the same service for $3000 (0.15 BTC)
+15.35:09<bThu, 23 Mar 2023 15:35:09 +0000>We have hacked your website 158.97 and extracted your databases. This was due to the security holes you had in your your site/server which have gained us remote control of pretty much everything that was on the server. 
+
+Our team is mostly interested in customer, administrative, and employee information which we have extracted through your databases once we got remote control over the server. It still needs to be sorted out but it will be well-organized once finished. First, we will be going through the emails/sms information and contacting the recipient how you held in disregard about their information being exposed to a hacking group when you could have stopped it. This would be detrimental to your personal image with these relationships with these people. Lastly, now that we have information not only will we be monetizing off it with our methods but made public or sold to other people that will do whatever they wish with the information also after we are done.
+
+Now you can put a stop to this by paying a $3000 fee (0.11 BTC) in bitcoin to the address 3GUGM9aH1kbydtXBQFMMB2aSH72VXijX3V We will be notified of payment which we will then delete the information we have obtained, patch the hole in the site/server which we got in and remove you from any future targeting in the future. You have 72 hours in doing so after viewing this message or the series of steps will commence. You can obtain bitcoin through such services such as paxful.com or do a search on bing.com
+20.54:07<bFri, 31 Mar 2023 20:54:07 +0100>sdmbsvkbsdksbkjasbfjasvbaljvbdsjf
+20.58:40<bFri, 31 Mar 2023 20:58:40 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+21.02:45<bFri, 31 Mar 2023 21:02:45 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+21.40:52<bTue, 04 Apr 2023 21:40:52 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+18.17:58<bFri, 14 Apr 2023 18:17:58 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+10.41:54<bTue, 18 Apr 2023 10:41:54 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+16.24:43<bTue, 18 Apr 2023 16:24:43 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+8.11:09<bWed, 19 Apr 2023 08:11:09 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+19.58:42<bWed, 19 Apr 2023 19:58:42 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+19.52:16<bMon, 24 Apr 2023 19:52:16 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+11.36:19<bTue, 25 Apr 2023 11:36:19 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+17.28:21<bThu, 27 Apr 2023 17:28:21 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+17.25:15<bFri, 28 Apr 2023 17:25:15 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+18.52:55<bFri, 28 Apr 2023 18:52:55 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+21.05:50<bSat, 29 Apr 2023 21:05:50 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+21.10:21<bSat, 29 Apr 2023 21:10:21 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+19.28:17<bSun, 30 Apr 2023 19:28:17 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+20.29:12<bSun, 30 Apr 2023 20:29:12 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+18.44:08<bMon, 01 May 2023 18:44:08 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+18.44:23<bMon, 01 May 2023 18:44:23 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+21.12:51<bTue, 02 May 2023 21:12:51 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+16.17:51<bWed, 03 May 2023 16:17:51 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+13.56:04<bThu, 04 May 2023 13:56:04 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+17.10:58<bFri, 05 May 2023 17:10:58 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+10.02:29<bSat, 06 May 2023 10:02:29 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+10.02:34<bSat, 06 May 2023 10:02:34 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+19.18:33<bTue, 09 May 2023 19:18:33 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+12.46:51<bWed, 10 May 2023 12:46:51 +0100>If you have indeed hacked my server then im assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+12.47:03<bWed, 10 May 2023 12:47:03 +0100> 
+16.26:18<bSat, 13 May 2023 16:26:18 +0100> 
+13.51:11<bTue, 16 May 2023 13:51:11 +0100> 
+14.55:13<bThu, 18 May 2023 14:55:13 +0100> 
+11.16:51<bSat, 20 May 2023 11:16:51 +0100>We have hacked your website 158.97 and extracted your databases. This was due to the security holes you had in your your site/server which have gained us remote control of everything that was on the server. 
+
+Our team is mostly interested in customer, administrative, and employee information which we have extracted through your databases once we got remote control over the server. It still needs to be sorted out but it will be well-organized once finished. First, we will be going through the emails/sms information and contacting the recipient how you held in disregard about their information being exposed to a hacking group when you could have stopped it. This would be detrimental to your personal image with these relationships with these people. Lastly, now that we have information not only will we be monetizing off it with our methods but made public or sold to other people that will do whatever they wish with the information also after we are done.
+
+Now you can put a stop to this by paying a $3000 fee (0.11 BTC) in bitcoin. You can find our address by visiting https://www.blockchain.com/explorer/addresses/btc/39PHuTwgY5THshy9VJoUXWebDA5jCprPmP where you can copy and paste the address or scan the QR code. We will be notified of payment which we will then delete the information we have obtained, patch the hole in the site/server which we got in and remove you from any future targeting in the future. You have 72 hours in doing so after viewing this message or the series of steps will commence. You can obtain bitcoin through such services such as paxful.com or do a search on bing.com
+21.45:26<bSat, 20 May 2023 21:45:26 +0100> 
+16.12:13<bSun, 21 May 2023 16:12:13 +0100> 
+7.01:16<bMon, 22 May 2023 07:01:16 +0100> 
+17.31:20<bMon, 22 May 2023 17:31:20 +0100> 
+0.33:00<bThu, 25 May 2023 00:33:00 +0100> 
+0.00:13<bFri, 26 May 2023 00:00:13 +0100> 
+12.45:48<bSat, 27 May 2023 12:45:48 +0100> 
+10.38:30<bTue, 30 May 2023 10:38:30 +0100> 
+8.26:37<bWed, 31 May 2023 08:26:37 +0100>If you have indeed hacked my server then i'm assuming you will be getting this message,  and i will require proof of that in form of what the databases contain before making any payments.
+10.40:17<bSat, 03 Jun 2023 10:40:17 +0100> 
+14.42:19<bSat, 03 Jun 2023 14:42:19 +0100> 
+13.33:10<bSun, 16 Jul 2023 13:33:10 +0100>I'm here because I love honey! - Marco (by the way, I'm using a VPN right now, what does your sniffer dog say about me?)
+14.19:56<bSun, 28 Jan 2024 14:19:56 +0000>tesing if still works
+
+20.32:54<bThu, 01 Feb 2024 20:32:54 +0000>tesing if still works
+
+9.31:40<bFri, 02 Feb 2024 09:31:40 +0000>tesing if still works
+
+18.14:50<bFri, 02 Feb 2024 18:14:50 +0000>tesing if still works
+
+21.09:40<bTue, 06 Feb 2024 21:09:40 +0000>tesing if still works
+
+0.42:01<bFri, 09 Feb 2024 00:42:01 +0000>tesing if still works
+
+11.26:17<bSun, 11 Feb 2024 11:26:17 +0000>tesing if still works
+
+11.26:22<bSun, 11 Feb 2024 11:26:22 +0000>tesing if still works
+
+12.49:29<bWed, 14 Feb 2024 12:49:29 +0000>tesing if still works
+
+19.07:39<bFri, 01 Mar 2024 19:07:39 +0000>
