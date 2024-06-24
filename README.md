@@ -3,7 +3,7 @@ IP tracking / IP analytics WebApp
 
 The primary code is in the index.php file that picks up the IP address and stores it in the SQLite database, pulls out some sql queries and makes some somple graphs and stats as show in the wicki section.
 
-Build:
+Build and testing code:
 ----------------------
 
 Install SQL:
