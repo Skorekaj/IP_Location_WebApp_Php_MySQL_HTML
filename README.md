@@ -1,7 +1,8 @@
 # Ip_Location_WebApp_Php_MySQL_HTML
 IP tracking / IP analytics WebApp
 
-The primary code is in the index.php file that picks up the IP address and stores it in the SQLite database, pulls out some sql queries and makes some somple graphs and stats as show in the wicki section.
+The primary code is in the index.php file that picks up the IP address and stores it in the SQLite database, pulls out some sql queries and makes some somple graphs and stats as show in the wicki section. Further detaisl in the wiki: https://github.com/Skorekaj/Project-IP_Location_WebApp_Php_MySQL_HTML/wiki
+
 
 Build and testing code:
 ----------------------
